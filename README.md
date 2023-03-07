@@ -1,7 +1,7 @@
 # Payment-System
 This is a Payment System Application project for the EgFWD Embedded Systems Professional NanoDegree Scholarship. This project was written in C.
 ## Project Requirements
-Development environment preparation
+
 Implement the card module
 
 Implement the terminal module
